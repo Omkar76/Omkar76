@@ -7,3 +7,7 @@
 <a href="https://github.com/Omkar76">
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/333333" />
 </a>
+
+<a href="https://stackoverflow.com/users/12485639/omkar76">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow/f48024" />
+</a>
